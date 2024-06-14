@@ -1,1 +1,0 @@
-CREATE TABLE `db_turma_202400207`.`tbl_alunos` ;
